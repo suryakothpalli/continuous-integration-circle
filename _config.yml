@@ -3,6 +3,7 @@ description: An awesome docs project
 permalink: pretty
 search_enabled: true
 color_scheme: dark
+incremental: true
 
 remote_theme: pmarsceill/just-the-docs
 plugins:
